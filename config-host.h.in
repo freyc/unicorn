@@ -1,0 +1,3 @@
+// automatically generated
+
+#define HOST_${QEMU_ARCH} 1
